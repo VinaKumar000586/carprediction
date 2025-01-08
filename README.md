@@ -5,3 +5,4 @@ This project focuses on predicting car prices based on various features such as 
 
 Description of the Model:
 Data Loading: The dataset is loaded using Dask, a parallel computing framework, for efficient handling of large datasets. The data is read from a CSV file (car_prices.csv), and basic information about the data (e.g., columns, missing values) is explored
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marutisuzuki.com%2Fprice-list%2Fswift-price&psig=AOvVaw2Pu0KfrhGpFDwRmdGDS70G&ust=1736441068070000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiX-5rJ5ooDFQAAAAAdAAAAABAE
